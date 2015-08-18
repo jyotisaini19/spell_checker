@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1439219113 source:c:\users\jyoti\desktop\morepics\spell_check\fscan.c
+	"TrieHeader.h"
+	<stdio.h>
+
+1439188545 c:\users\jyoti\desktop\morepics\spell_check\trieheader.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1439219456 source:c:\users\jyoti\desktop\morepics\spell_check\main.c
+	"TrieHeader.h"
+	"BKtree.h"
+	<ctype.h>
+	<string.h>
+
+1439184625 source:c:\users\jyoti\desktop\morepics\spell_check\insert.c
+	<stdlib.h>
+	<string.h>
+	"TrieHeader.h"
+
+1439058975 source:c:\users\jyoti\desktop\morepics\spell_check\search.c
+	"TrieHeader.h"
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1439184409 source:c:\users\jyoti\desktop\morepics\spell_check\fprint.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"TrieHeader.h"
+
+1439182225 source:c:\users\jyoti\desktop\morepics\spell_check\print.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"TrieHeader.h"
+
+1439188400 source:c:\users\jyoti\desktop\morepics\spell_check\autocomplete.c
+	"TrieHeader.h"
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+
+1439189113 source:c:\users\jyoti\desktop\morepics\spell_check\printdata.c
+	"TrieHeader.h"
+	<stdio.h>
+
+1439216134 source:c:\users\jyoti\desktop\morepics\spell_check\fscanbk.c
+	"BKtree.h"
+	<stdio.h>
+
+1439218055 c:\users\jyoti\desktop\morepics\spell_check\bktree.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1439219113 source:c:\users\jyoti\desktop\morepics\spell_check\insertbk.c
+	"BKtree.h"
+
+1439215406 source:c:\users\jyoti\desktop\morepics\spell_check\suggestion.c
+	"BKtree.h"
+
+1439216502 source:c:\users\jyoti\desktop\morepics\spell_check\editdistance.c
+	"BKtree.h"
+	<string.h>
+
+1439216554 source:c:\users\jyoti\desktop\morepics\spell_check\mini.c
+	"BKtree.h"
+
